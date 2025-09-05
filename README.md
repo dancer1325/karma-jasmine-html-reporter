@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/karma-jasmine-html-reporter.svg)](https://www.npmjs.com/package/karma-jasmine-html-reporter) [![npm downloads](https://img.shields.io/npm/dm/karma-jasmine-html-reporter.svg)](https://www.npmjs.com/package/karma-jasmine-html-reporter)
 
 * == reporter /
-  * dynamically shows tests results | "debug.html"
+  * 👀dynamically shows tests results | ["debug.html"](https://karma-runner.github.io/6.4/intro/troubleshooting.html#im-getting-a-weird-error-from-the-browser-how-can-i-debug-it)👀
 
 ![alt tag](/screenshots/reporter_1.png)
 
